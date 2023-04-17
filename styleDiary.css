@@ -1,0 +1,344 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgba(24, 24, 24, 0.207);
+   background-size: cover;
+   height: 100vh;
+}
+
+nav{
+    margin-left: 30px;
+    margin-top: 40px;
+    background-color: black;
+    backdrop-filter: blur(7px);
+    height: 90px;
+    width: 95%;
+}
+
+nav h1{
+    color: azure;
+    font-size: 42px;
+    text-align: center;
+    padding-top: 19px;
+}
+
+.logo{
+    float: left;
+    margin-left: 10px;
+    margin-top: -110px;
+    background-color: rgba(255, 255, 255, 0.753);
+    backdrop-filter: blur(7px);
+    height: 60px;
+    width: 110px;
+    position: fixed;
+}
+nav h2 a{
+    color: black;
+    margin-left: 18px;
+    text-decoration: none;
+}
+
+.list{
+    float: right;
+    margin-right: 16px;
+    margin-top: -110px;
+    background-color: rgba(255, 255, 255, 0.841);
+    backdrop-filter: blur(7px);
+    height: 170px;
+    width: 110px;
+}
+
+.list ul{
+    padding: 11px;
+    margin-top: 4px;
+}
+.list ul li{
+    margin-top: 12px;
+}
+.list ul li a{
+    color: black;
+    font-size: 19px;
+    text-decoration: underline;
+}
+
+.week1heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 190px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.week1{
+    color: azure;
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: -50px;
+}
+
+.week1box{
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 129px;
+    margin-top: -40px;
+}
+
+.week1para1{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -560px;
+    font-size: 14px;
+}
+
+.week1para2{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -4px;
+    font-size: 14px;
+}
+
+.week1para3{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.week2heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 900px;
+    margin-top: -650px;
+    background-color: black;
+}
+
+.week2{
+    color: azure;
+    font-size: 30px;
+    margin-left: 970px;
+    margin-top: -50px;
+}
+
+.week2box{
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 845px;
+    margin-top: -40px;
+}
+
+.week2para1{
+    margin-left: 855px;
+    padding-right: 190px;
+    margin-top: -560px;
+    font-size: 14px;
+}
+
+.week2para2{
+    margin-left: 855px;
+    padding-right: 200px;
+    margin-top: -4px;
+    font-size: 14px;
+}
+
+.week2para3{
+    margin-left: 855px;
+    padding-right: 200px;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.week3heading{
+    height: 55px;
+    width: 700px;
+    border: 3px solid black;
+    margin-left: 390px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.week3{
+    color: azure;
+    font-size: 30px;
+    margin-left: 620px;
+    margin-top: -50px;
+}
+
+.week3box{
+    height: 350px;
+    width: 1200px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 140px;
+    margin-top: -50px;
+}
+
+.week3para1{
+    margin-left: 150px;
+    padding-right: 180px;
+    margin-top: -310px;
+    font-size: 14px;
+}
+
+.week3para2{
+    margin-left: 150px;
+    padding-right: 180px;
+    margin-top: -4px;
+    font-size: 14px;
+}
+
+.week3para3{
+    margin-left: 150px;
+    padding-right: 180px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.week4heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 190px;
+    margin-top: 90px;
+    background-color: black;
+}
+
+.week4{
+    color: azure;
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: -50px;
+}
+
+.week4box{
+    height: 820px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 129px;
+    margin-top: -40px;
+}
+
+.week4para1{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -780px;
+    font-size: 14px;
+}
+
+.week4para2{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -4px;
+    font-size: 14px;
+}
+
+.week4para3{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.week4para4{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.week5heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 900px;
+    margin-top: -855px;
+    background-color: black;
+}
+
+.week5{
+    color: azure;
+    font-size: 30px;
+    margin-left: 970px;
+    margin-top: -50px;
+}
+
+.week5box{
+    height: 820px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 845px;
+    margin-top: -40px;
+}
+
+.week6heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 190px;
+    margin-top: 60px;
+    background-color: black;
+}
+
+.week6{
+    color: azure;
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: -50px;
+}
+
+.week6box{
+    height: 620px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 129px;
+    margin-top: -40px;
+}
+
+.week7heading{
+    height: 55px;
+    width: 400px;
+    border: 3px solid black;
+    margin-left: 900px;
+    margin-top: -655px;
+    background-color: black;
+}
+
+.week7{
+    color: azure;
+    font-size: 30px;
+    margin-left: 970px;
+    margin-top: -50px;
+}
+
+.week7box{
+    height: 620px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 845px;
+    margin-top: -45px;
+}
+
+h4 ul{
+    float: left;
+    margin-left: -3px;
+    margin-top: 70px;
+}
+
+h4 ul li{
+    display: inline-block;
+    margin-right: 19px;
+}
+
+h4 ul li a{
+    font-size: 12px;
+    color: black;
+    text-decoration: overline;
+}
