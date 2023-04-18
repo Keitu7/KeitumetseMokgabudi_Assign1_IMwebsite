@@ -1,6 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   background-color: rgba(24, 24, 24, 0.207);
+   background-color: #fce1ea;
    background-size: cover;
    height: 100vh;
 }
@@ -25,7 +25,7 @@ nav h1{
     float: left;
     margin-left: 10px;
     margin-top: -110px;
-    background-color: rgba(255, 255, 255, 0.753);
+    background-color: azure;
     backdrop-filter: blur(7px);
     height: 60px;
     width: 110px;
@@ -41,7 +41,7 @@ nav h2 a{
     float: right;
     margin-right: 16px;
     margin-top: -110px;
-    background-color: rgba(255, 255, 255, 0.841);
+    background-color: azure;
     backdrop-filter: blur(7px);
     height: 170px;
     width: 110px;
@@ -65,7 +65,7 @@ nav h2 a{
     width: 320px;
     border: 3px solid black;
     margin-left: 110px;
-    margin-top: 100px;
+    margin-top: -930px;
     background-color: black;
 }
 
@@ -78,15 +78,16 @@ nav h2 a{
 
 .designBox{
     height: 900px;
-    width: 1300px;
+    width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
-    margin-left: 70px;
-    margin-top: -40px;
+    background-color: white;
+    margin-left: 82px;
+    margin-top: 110px;
 }
 
 .designHead1{
-    margin-top: -840px;
-    margin-left: 140px;
+    margin-top: 40px;
+    margin-left: 110px;
     font-size: 23px;
 }

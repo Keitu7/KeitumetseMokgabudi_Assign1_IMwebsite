@@ -39,25 +39,33 @@ nav ul li a{
 }
 
 h2{
-    color: azure;
+    color: black;
     font-size: 20px;
     margin-top: 380px;
     text-align: center;
 }
 
 h2 a{
-    color: azure;
+    color: black;
 }
 
 h3{
-    color: azure;
+    color: black;
     font-size: 75px;
     margin-top: -16px;
     text-align: center;
 }
 
+.whiteBlock{
+    height: 260px;
+    width: 1515px;
+    border: 3px solid #fce1ea;
+    margin-top: -270px;
+    background-color: #fce1ea;
+}
+
 h4{
-    color: #faa5ca;
+    color: azure;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 65px;
     margin-top: 220px;

@@ -1,6 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgba(24, 24, 24, 0.207);
+    background-color:  #d6f9f6;
     background-size: cover;
     height: 100vh;
 }
@@ -8,7 +8,7 @@ body{
 nav{
     position: fixed;
     margin-top: -1px;
-    background-color: rgba(240, 255, 255, 0.259);
+    background-color:  rgba(240, 255, 255, 0.186);
     backdrop-filter: blur(7px);
     height: 80px;
     width: 100%;
