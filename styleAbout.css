@@ -38,16 +38,24 @@ nav ul li a{
     color: black;
 }
 
+h2{
+    float: right;
+    margin-right: 127px;
+    margin-top: 190px;
+    font-size: 47px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .aboutImage{
     width: 1140px;
-    height: 900px;
+    height: 990px;
     margin-top: -20px;
 }
 
 .aboutMenu{
     float: right;
     margin-right: 223px;
-    margin-top: -600px;
+    margin-top: -669px;
 }
 
 .aboutMenu li{

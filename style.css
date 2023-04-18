@@ -73,7 +73,7 @@ h5{
 .welcoming_image{
     border-radius: 4px;
     width: 185px;
-    height: 170px;
+    height: 140px;
     margin-left: 410px;
     margin-top: -55px;
 }
@@ -81,21 +81,21 @@ h5{
 p{
     color: azure;
     margin-left: 610px;
-    margin-top: -150px;
+    margin-top: -110px;
     margin-right: 250px;
 }
 
 .heading2{
     color: azure;
     font-size: 22px;
-    margin-left: -800px;
+    margin-left: -770px;
     margin-top: 100px;
 }
 
 .journey_image{
     border-radius: 4px;
-    width: 170px;
-    height: 150px;
+    width: 190px;
+    height: 120px;
     margin-left: 900px;
     margin-top: -50px;
 }
@@ -104,7 +104,7 @@ p{
     color: azure;
     margin-left: 200px;
     padding-right: 374px;
-    margin-top: -120px;
+    margin-top: -92px;
 }
 
 .myWorks{
