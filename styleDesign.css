@@ -77,7 +77,7 @@ nav h2 a{
 }
 
 .designBox{
-    height: 900px;
+    height: 2200px;
     width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
@@ -87,7 +87,45 @@ nav h2 a{
 }
 
 .designHead1{
-    margin-top: -880px;
+    margin-top: -2200px;
     margin-left: 110px;
     font-size: 23px;
+}
+
+.wireframeOri1{
+    height: 400px;
+    width: 520px;
+    margin-left: 110px;
+    margin-top: -10px;
+}
+
+.wireframeOri2{
+    height: 440px;
+    width: 580px;
+    margin-left: 740px;
+    margin-top: -530px;
+}
+
+.wireframeOri3{
+    height: 500px;
+    width: 630px;
+    margin-left: 110px;
+    margin-top: -10px;
+}
+
+.originalWireframes{
+    margin-left: 780px;
+    margin-top: -440px;
+}
+
+.designHead2{
+    margin-top: 240px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+
+.head2{
+    margin-top: -18px;
+    margin-left: 100px;
+    font-size: 18px;
 }
