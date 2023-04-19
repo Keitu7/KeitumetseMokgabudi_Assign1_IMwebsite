@@ -1,6 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   background-color: #fce1ea;
+   background-color: #fdb2cb;
    background-size: cover;
    height: 100vh;
 }
@@ -142,9 +142,10 @@ nav h2 a{
 }
 
 h3{
+    color: black;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
+    font-style: bold;
     margin-left: 820px;
     margin-top: 120px;
 }
@@ -152,7 +153,7 @@ h3{
 h4 ul{
     float: left;
     margin-left: -3px;
-    margin-top: 230px;
+    margin-top: 245px;
 }
 
 h4 ul li{

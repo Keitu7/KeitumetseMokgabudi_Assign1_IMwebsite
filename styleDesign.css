@@ -1,6 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   background-color: #fce1ea;
+   background-color: #fdb2cb;
    background-size: cover;
    height: 100vh;
 }
@@ -61,11 +61,11 @@ nav h2 a{
 }
 
 .headingBox{
-    height: 55px;
+    height: 115px;
     width: 320px;
     border: 3px solid black;
     margin-left: 110px;
-    margin-top: -930px;
+    margin-top: 90px;
     background-color: black;
 }
 
@@ -73,7 +73,7 @@ nav h2 a{
     color: azure;
     font-size: 30px;
     margin-left: 160px;
-    margin-top: -50px;
+    margin-top: -105px;
 }
 
 .designBox{
@@ -83,11 +83,11 @@ nav h2 a{
     border-radius: 15px;
     background-color: white;
     margin-left: 82px;
-    margin-top: 110px;
+    margin-top: -20px;
 }
 
 .designHead1{
-    margin-top: 40px;
+    margin-top: -880px;
     margin-left: 110px;
     font-size: 23px;
 }

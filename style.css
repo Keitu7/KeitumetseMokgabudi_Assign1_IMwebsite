@@ -59,9 +59,9 @@ h3{
 .whiteBlock{
     height: 260px;
     width: 1515px;
-    border: 3px solid #fce1ea;
+    border: 3px solid azure;
     margin-top: -270px;
-    background-color: #fce1ea;
+    background-color: azure;
 }
 
 h4{
@@ -97,22 +97,22 @@ p{
     color: azure;
     font-size: 22px;
     margin-left: -770px;
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 .journey_image{
-    border-radius: 4px;
-    width: 190px;
-    height: 120px;
+    border-radius: 3px;
+    width: 200px;
+    height: 150px;
     margin-left: 900px;
-    margin-top: -50px;
+    margin-top: -37px;
 }
 
 .para2{
     color: azure;
     margin-left: 200px;
     padding-right: 374px;
-    margin-top: -92px;
+    margin-top: -132px;
 }
 
 .myWorks{
