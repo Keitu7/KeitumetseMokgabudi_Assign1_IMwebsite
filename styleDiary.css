@@ -384,10 +384,17 @@ nav h2 a{
     margin-top: -10px;
 }
 
+.week7para1{
+    margin-left: 855px;
+    padding-right: 190px;
+    margin-top: -580px;
+    font-size: 16px;
+}
+
 h4 ul{
     float: left;
     margin-left: -3px;
-    margin-top: 110px;
+    margin-top: 310px;
 }
 
 h4 ul li{

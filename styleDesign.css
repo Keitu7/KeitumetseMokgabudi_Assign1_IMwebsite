@@ -77,7 +77,33 @@ nav h2 a{
 }
 
 .designBox{
-    height: 2200px;
+    height: 3500px;
+    width: 1350px;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: white;
+    margin-left: 82px;
+    margin-top: -20px;
+}
+
+.headingBox2{
+    height: 115px;
+    width: 320px;
+    border: 3px solid black;
+    margin-left: 110px;
+    margin-top: 220px;
+    background-color: black;
+}
+
+.designHeading2{
+    color: azure;
+    font-size: 30px;
+    margin-left: 160px;
+    margin-top: -105px;
+}
+
+.designBox2{
+    height: 2640px;
     width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
@@ -87,7 +113,7 @@ nav h2 a{
 }
 
 .designHead1{
-    margin-top: -2200px;
+    margin-top: -3470px;
     margin-left: 110px;
     font-size: 23px;
 }
@@ -128,4 +154,169 @@ nav h2 a{
     margin-top: -18px;
     margin-left: 100px;
     font-size: 18px;
+    margin-right: 80px;
+}
+
+.designHead3{
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+
+.head3{
+    margin-top: -18px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+.contentMapping1{
+    height: 620px;
+    width: 880px;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+
+.contentMapping2{
+    height: 620px;
+    width: 880px;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+
+
+.designHead4{
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+
+.head4{
+    margin-top: -18px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.designHead5{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+
+.head5{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.designHead6{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+
+.head6{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.anna{
+    color: black;
+}
+
+.annaPic{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.annaPic2{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.styleHead{
+    margin-top: -2600px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.style1{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.styleHead2{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.style2{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.styleHead3{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.Sketches1{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.Sketches2{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.Sketches3{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.Sketches4{
+    height: 320px;
+    width: 480px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.styleHead4{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.Anno1{
+    height: 730px;
+    width: 990px;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
+.Anno2{
+    height: 830px;
+    width: 1040px;
+    margin-left: 220px;
+    margin-top: 10px;
 }
