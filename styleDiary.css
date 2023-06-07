@@ -1,6 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:  #ffd5e3;
+    background-color:  #6759e4;
    background-size: cover;
    height: 100vh;
 }
@@ -23,35 +23,32 @@ nav{
     text-decoration: none;
 }
 
+.logo:hover a{
+    color: #03fcfc;
+}
+
 nav ul{
     float: right;
-    margin-right: 1px;
+    margin-right: 1rem;
 }
 
 nav ul li{
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 nav ul li a{
     font-size: 15px;
     color: black;
-}
-
-.devBlogsHeading{
-    height: 100px;
-    width: 1120px;
-    border: 3px solid black;
-    margin-left: 200px;
-    margin-top: 90px;
-    background-color: black;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .devBlogHeadingWords{
     color: azure;
-    font-size: 65px;
-    margin-top: -90px;
+    font-size: 85px;
+    margin-top: 5.5rem;
     text-align: center;
+    transition: ease-in-out 0.9s;
 }
 
 .week1heading{
@@ -277,7 +274,15 @@ nav ul li a{
     font-size: 16px;
 }
 
-.week5heading{
+.week4para5{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+
+.week5and6heading{
     height: 115px;
     width: 570px;
     border: 3px solid black;
@@ -286,21 +291,21 @@ nav ul li a{
     background-color: black;
 }
 
-.week5Date{
+.week5and6Date{
     color: azure;
     font-size: 18px;
     margin-left: 1080px;
     margin-top: -20px;
 }
 
-.week5{
+.week5and6{
     color: azure;
     font-size: 30px;
     margin-left: 970px;
     margin-top: -105px;
 }
 
-.week5box{
+.week5and6box{
     height: 1030px;
     width: 500px;
     border: 3px solid black;
@@ -310,16 +315,44 @@ nav ul li a{
     margin-top: -10px;
 }
 
-.week6heading{
+.week5and6para1{
+    margin-left: 855px;
+    padding-right: 180px;
+    margin-top: -63.5rem;
+    font-size: 16px;
+}
+
+.week5and6para2{
+    margin-left: 855px;
+    padding-right: 180px;
+    margin-top: 1rem;
+    font-size: 16px;
+}
+
+.week5and6para3{
+    margin-left: 855px;
+    padding-right: 180px;
+    margin-top: 1rem;
+    font-size: 14px;
+}
+
+.week5and6para4{
+    margin-left: 855px;
+    padding-right: 180px;
+    margin-top: 1rem;
+    font-size: 14px;
+}
+
+.week7heading{
     height: 115px;
     width: 570px;
     border: 3px solid black;
     margin-left: 97px;
-    margin-top: 90px;
+    margin-top: 20rem;
     background-color: black;
 }
 
-.week6Date{
+.week7Date{
     color: azure;
     font-size: 18px;
     margin-left: 350px;
@@ -327,15 +360,15 @@ nav ul li a{
 }
 
 
-.week6{
+.week7{
     color: azure;
     font-size: 30px;
     margin-left: 270px;
     margin-top: -105px;
 }
 
-.week6box{
-    height: 620px;
+.week7box{
+    height: 87rem;
     width: 500px;
     border: 3px solid black;
     background-color: azure;
@@ -344,16 +377,47 @@ nav ul li a{
     margin-top: -10px;
 }
 
-.week7heading{
+.week7para1{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -86rem;
+    font-size: 16px;
+}
+
+.week7para2{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 16px;
+}
+
+.week7para3{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 17px;
+}
+
+.week7para4{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 17px;
+}
+
+.week7para5{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 14px;
+}
+
+.week8heading{
     height: 115px;
     width: 570px;
     border: 3px solid black;
     margin-left: 810px;
-    margin-top: -713px;
+    margin-top: -71.6rem;
     background-color: black;
 }
 
-.week7Date{
+.week8Date{
     color: azure;
     font-size: 18px;
     margin-left: 1080px;
@@ -361,15 +425,15 @@ nav ul li a{
 }
 
 
-.week7{
+.week8{
     color: azure;
     font-size: 30px;
     margin-left: 970px;
     margin-top: -105px;
 }
 
-.week7box{
-    height: 620px;
+.week8box{
+    height: 87rem;
     width: 500px;
     border: 3px solid black;
     background-color: azure;
@@ -378,26 +442,214 @@ nav ul li a{
     margin-top: -10px;
 }
 
-.week7para1{
+.week8para1{
     margin-left: 855px;
     padding-right: 190px;
-    margin-top: -580px;
+    margin-top: -86rem;
     font-size: 16px;
 }
 
-h4 ul{
+.week8para2{
+    margin-left: 855px;
+    padding-right: 190px;
+    font-size: 16px;
+}
+
+.week8para3{
+    margin-left: 855px;
+    padding-right: 190px;
+    font-size: 14px;
+}
+
+.week8para4{
+    margin-left: 855px;
+    padding-right: 190px;
+    font-size: 14px;
+}
+
+.week8para5{
+    margin-left: 855px;
+    padding-right: 190px;
+    font-size: 14px;
+}
+
+.week9heading{
+    height: 115px;
+    width: 700px;
+    border: 3px solid black;
+    margin-left: 390px;
+    margin-top: 6rem;
+    background-color: black;
+}
+
+.week9{
+    color: azure;
+    font-size: 30px;
+    margin-left: 620px;
+    margin-top: -105px;
+}
+
+.week9Date{
+    color: azure;
+    font-size: 18px;
+    margin-left: 670px;
+    margin-top: -20px;
+}
+
+.week9box{
+    height: 420px;
+    width: 1200px;
+    border: 3px solid black;
+    background-color: azure;
+    border-radius: 15px;
+    margin-left: 140px;
+    margin-top: -4px;
+}
+
+.week9para1{
+    margin-left: 150px;
+    padding-right: 180px;
+    margin-top: -400px;
+    font-size: 16px;
+}
+
+.week9para2{
+    margin-left: 150px;
+    padding-right: 180px;
+    font-size: 16px;
+}
+
+.week9para3{
+    margin-left: 150px;
+    padding-right: 180px;
+    font-size: 16px;
+}
+
+.week9para4{
+    margin-left: 150px;
+    padding-right: 180px;
+    font-size: 16px;
+}
+
+.week9para5{
+    margin-left: 150px;
+    padding-right: 180px;
+    font-size: 14px;
+}
+
+.week10heading{
+    height: 115px;
+    width: 570px;
+    border: 3px solid black;
+    margin-left: 97px;
+    margin-top: 8rem;
+    background-color: black;
+}
+
+.week10Date{
+    color: azure;
+    font-size: 18px;
+    margin-left: 350px;
+    margin-top: -20px;
+}
+
+.week10{
+    color: azure;
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: -105px;
+}
+
+.week10box{
+    height: 50rem;
+    width: 500px;
+    border: 3px solid black;
+    background-color: azure;
+    border-radius: 15px;
+    margin-left: 129px;
+    margin-top: -10px;
+}
+
+.week10para1{
+    margin-left: 140px;
+    padding-right: 900px;
+    margin-top: -49rem;
+    font-size: 16px;
+}
+
+.week10para2{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 16px;
+}
+
+.week10para3{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 16px;
+}
+
+.week10para4{
+    margin-left: 140px;
+    padding-right: 900px;
+    font-size: 14px;
+}
+
+.week11heading{
+    height: 115px;
+    width: 570px;
+    border: 3px solid black;
+    margin-left: 810px;
+    margin-top: -54rem;
+    background-color: black;
+}
+
+.week11Date{
+    color: azure;
+    font-size: 18px;
+    margin-left: 1080px;
+    margin-top: -20px;
+}
+
+
+.week11{
+    color: azure;
+    font-size: 30px;
+    margin-left: 970px;
+    margin-top: -105px;
+}
+
+.week11box{
+    height: 50rem;
+    width: 500px;
+    border: 3px solid black;
+    background-color: azure;
+    border-radius: 15px;
+    margin-left: 845px;
+    margin-top: -10px;
+}
+
+.week11para1{
+    margin-left: 855px;
+    padding-right: 190px;
+    margin-top: -86rem;
+    font-size: 16px;
+}
+
+.bottomNav1{
     float: left;
     margin-left: -3px;
-    margin-top: 310px;
+    margin-top: 90rem;
 }
 
-h4 ul li{
+.bottomNav1 li{
     display: inline-block;
-    margin-right: 19px;
+    margin-right: 400px;
 }
 
-h4 ul li a{
-    font-size: 12px;
-    color: black;
-    text-decoration: overline;
+.bottomNav1 li a{
+    font-size: 30px;
+    color: azure;
+    font-style: bold;
+    text-decoration: none;
 }
