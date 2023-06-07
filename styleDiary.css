@@ -1,63 +1,57 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:  #fdb2cb;
+    background-color:  #ffd5e3;
    background-size: cover;
    height: 100vh;
 }
 
 nav{
-    margin-left: 30px;
-    margin-top: 40px;
-    background-color: black;
-    backdrop-filter: blur(7px);
-    height: 90px;
-    width: 95%;
-}
-
-nav h1{
-    color: azure;
-    font-size: 42px;
-    text-align: center;
-    padding-top: 19px;
-}
-
-.logo{
-    float: left;
-    margin-left: 10px;
-    margin-top: -110px;
-    background-color: azure;
-    backdrop-filter: blur(7px);
-    height: 60px;
-    width: 110px;
     position: fixed;
+    margin-top: -90px;
+    background-color:  rgba(240, 255, 255, 0.186);
+    backdrop-filter: blur(7px);
+    height: 80px;
+    width: 100%;
 }
-nav h2 a{
+
+.logo a{
     color: black;
-    margin-left: 18px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 55px;
+    margin: 0 9px;
     text-decoration: none;
 }
 
-.list{
+nav ul{
     float: right;
-    margin-right: 16px;
-    margin-top: -110px;
-    background-color: azure;
-    backdrop-filter: blur(7px);
-    height: 170px;
-    width: 110px;
+    margin-right: 1px;
 }
 
-.list ul{
-    padding: 11px;
-    margin-top: 4px;
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
 }
-.list ul li{
-    margin-top: 3px;
-}
-.list ul li a{
+
+nav ul li a{
+    font-size: 15px;
     color: black;
-    font-size: 19px;
-    text-decoration: underline;
+}
+
+.devBlogsHeading{
+    height: 100px;
+    width: 1120px;
+    border: 3px solid black;
+    margin-left: 200px;
+    margin-top: 90px;
+    background-color: black;
+}
+
+.devBlogHeadingWords{
+    color: azure;
+    font-size: 65px;
+    margin-top: -90px;
+    text-align: center;
 }
 
 .week1heading{
