@@ -93,8 +93,9 @@ nav ul li a{
     margin-top: -105px;
 }
 
+/*this is where you change the size of the second white box*/
 .designBox2{
-    height: 200rem;
+    height: 245rem;
     width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
@@ -232,8 +233,9 @@ nav ul li a{
     margin-top: 10px;
 }
 
+/*this is where you lift the first heading up*/
 .styleHead{
-    margin-top: -200rem;
+    margin-top: -240rem;
     margin-left: 110px;
     font-size: 23px;
 }
@@ -324,13 +326,26 @@ nav ul li a{
     margin-top: 10px;
 }
 
+.styleHead6{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.Annote2{
+    height: 500px;
+    width: 990px;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
 
 h5{
     color:azure;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 130px;
     margin-left: 400px;
-    margin-top: 20rem;
+    margin-top: 14rem;
 
 }
 
@@ -346,7 +361,7 @@ h5 p{
 .bottomNav1{
     float: left;
     margin-left: -3px;
-    margin-top: 7rem;
+    margin-top: -4rem;
 }
 
 .bottomNav1 li{
