@@ -25,6 +25,10 @@ nav{
     text-decoration: none;
 }
 
+.logo:hover a{
+    color: #03fcfc;
+}
+
 nav ul{
     float: right;
     margin-right: 7px;
