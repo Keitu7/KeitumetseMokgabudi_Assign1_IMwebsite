@@ -99,7 +99,39 @@ h3{
     font-size: 214px;
     margin-top: -45px;
     text-align: center;
-    transition: ease-in-out 0.8s;
+    transition: ease-in-out 0.7s;
+}
+
+.container{
+    margin: 0 auto;
+    height: 16vh;
+    width: 48%;
+    border: 2px solid rgb(252, 252, 255);
+    margin-top:-92rem;
+    margin-left: 40rem;
+}
+
+.container h3{
+    color: white;
+    font-size: 2rem;
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+
+.container button{
+    background: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    transition: ease-in-out 0.3s;
+    margin-top: 0rem;
+}
+
+.container button:hover {
+    background: white;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
 }
 
 .imagesContainerBackground{
@@ -161,7 +193,7 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 130px;
     margin-left: 400px;
-    margin-top: -27rem;
+    margin-top: 58rem;
 
 }
 
