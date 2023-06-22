@@ -8,7 +8,7 @@ body{
 nav{
     position: fixed;
     margin-top: -495px;
-    background-color: rgba(240, 255, 255, 0.258);
+    background-color: rgba(240, 255, 255, 0.06);
     backdrop-filter: blur(7px);
     height: 80px;
     width: 103%;
@@ -18,7 +18,7 @@ nav{
     color: aliceblue;
     font-size: 30px;
     font-weight: bold;
-    line-height: 55px;
+    line-height: 70px;
     margin: 0 27px;
     text-decoration: none;
 }
@@ -96,7 +96,7 @@ h2 a{
 
 h3{
     color: azure;
-    font-size: 214px;
+    font-size: 207px;
     margin-top: -45px;
     text-align: center;
     transition: ease-in-out 0.5s;
@@ -141,73 +141,33 @@ h3{
     margin-top: -14rem;
 }
 
-.imagesContainer{
-    margin-top: 9rem;
-    margin-left: 10rem;
-    /*Styling the grid box*/
-    background-color: #6759e4;
-    display: grid;
-    height: 100vh;
-    grid-template: 100px auto 100px / 20fr 60fr;
-    gap: 16px;
-}
-
-.box{
-    background: pink;
-}
-
-.Art1{
-    grid-column: 1/ span 2;
-    grid-row: 2 / span 2;
-    height: 27rem;
-}
-
-.Art4{
-    height: 19rem;
-}
-
-/*styling the images to fit in the div containers/grid box*/
-
-.Art1 img{
-    height: 27rem;
-    width: 80rem;
-}
-
-.Art2 img{
-    height: 6.3rem;
-    width: 27rem;
-}
-
-.Art3 img{
-    height: 6.3rem;
-    width: 52rem;
-}
-
-.Art4 img{
-    height: 20rem;
-    width: 27rem;
-}
-
-h4{
+.message{
     color: azure;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 130px;
+    font-size: 120px;
+    transition: 0.5s;
     margin-left: 400px;
     margin-top: 58rem;
 
 }
 
-h4 p{
+.message:hover{
+    color: #03fcfc;
+    font-size: 125px;
+}
+
+.slogan{
     font-weight: lighter;
     font-family: initial;
+    color: azure;
     font-size: 20px;
-    margin-top: 15px;
-    margin-left: 200px;
+    margin-top: -155px;
+    margin-left: 675px;
 }
 .bottomNav1{
     float: left;
     margin-left: -3px;
-    margin-top: 1rem;
+    margin-top: 11rem;
 }
 
 .bottomNav1 li{
