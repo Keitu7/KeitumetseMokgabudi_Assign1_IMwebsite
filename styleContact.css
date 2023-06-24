@@ -1,13 +1,13 @@
 body{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   background-color: #6759e4; 
+   background-color: rgb(83, 66, 229); 
    background-size: cover;
    height: 100vh;
 }
 
 nav{
     position: fixed;
-    background-color:  rgba(240, 255, 255, 0.258);
+    background-color:  rgba(240, 255, 255, 0.132);
     backdrop-filter: blur(7px);
     height: 85px;
     width: 100%;
@@ -89,38 +89,64 @@ h2 p a{
     font-family: initial;
 }
 
-h3{
+#message{
     color: azure;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 130px;
+    font-size: 120px;
     margin-left: 400px;
-    margin-top: 210px;
+    margin-top: 290px;
+    transition: ease-in-out 0.5s;
 
 }
 
-h3 p{
+#message:hover{
+    color: #03fcfc;
+    font-size: 125px;
+}
+
+#slogan{
     font-weight: lighter;
     font-family: initial;
+    color: azure;
     font-size: 20px;
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: 280px;
 }
 
 
 .bottomNav{
     float: left;
     margin-left: -3px;
-    margin-top: 70px;
+    margin-top: 5rem;
 }
 
 .bottomNav li{
     display: inline-block;
-    margin-right: 400px;
+    margin-right: 370px;
 }
 
 .bottomNav li a{
-    font-size: 30px;
+    font-size: 27px;
     color: azure;
     font-style: bold;
     text-decoration: none;
 }
+
+.lastLink{
+    float: right;
+    margin-right: 1px;
+    margin-top: 5.2rem;
+}
+
+.lastLink li{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.lastLink li a{
+    font-size: 25px;
+    color: azure;
+    font-style: bold;
+    text-decoration: none;
+}
+

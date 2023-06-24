@@ -1,6 +1,7 @@
 body{
     font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:  #6759e4;
+    /*background-color:  #6759e4;*/
+    background-color: rgb(83, 66, 229);
     background-size: cover;
     height: 100vh;
 }
@@ -50,21 +51,38 @@ h2{
     float: right;
     margin-right: 80px;
     margin-top: 190px;
-    font-size: 56px;
+    font-size: 58px;
     color: azure;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     transition: ease-in-out 0.7s;
-
 }
 
-.imageContainer img{
+h2{
+    animation: fadeAndScale 1.7s cubic-bezier(0.1, -0.1, 0.22, 1);
+    transform-origin: center bottom;
+}
+
+@keyframes fadeAndScale {
+    from{
+        opacity: 0;
+        transform: scale3d(.150, .150, 1);
+    }
+    to{
+        opacity: 1;
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+/*.imageContainer img{
     width: 71rem;
     height: 100vh;
     margin-top: 0rem;
-}
+}*/
 
 .imageContainer{
     height: 100vh;
+    width: 69.9rem;
+    border: solid 2px black;
 }
 
 .aboutMenu{
@@ -97,7 +115,7 @@ h2{
 .aboutMenu li a{
     font-size: 20px;
     color: azure;
-    margin-right: 0.5rem;
+    margin-right: 1.2rem;
     text-decoration: none;
     font-family: initial;
     font-weight: lighter;
@@ -112,20 +130,20 @@ h2{
     margin-top: -30px;
 }
 
-/*.bottomNav1 ul{
+/*.bottomNav1 {
     float: left;
     margin-left: -3px;
-    margin-top: -1rem;
+    margin-top: -4rem;
 }
 
-.bottomNav1 ul li{
+.bottomNav1 li{
     display: inline-block;
     margin-right: 400px;
 }
 
-.bottomNav1 ul li a{
+.bottomNav1 li a{
     font-size: 30px;
     color: azure;
     font-style: bold;
     text-decoration: none;
-}
+}*/
