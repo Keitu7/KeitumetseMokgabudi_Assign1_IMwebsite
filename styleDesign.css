@@ -72,7 +72,7 @@ nav ul li a{
 }
 
 .designBox{
-    height: 3500px;
+    height: 4200px;
     width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
@@ -83,7 +83,7 @@ nav ul li a{
 
 .headingBox2{
     height: 115px;
-    width: 300px;
+    width: 470px;
     border: 3px solid black;
     margin-left: 110px;
     margin-top: 220px;
@@ -99,7 +99,7 @@ nav ul li a{
 
 /*this is where you change the size of the second white box*/
 .designBox2{
-    height: 245rem;
+    height: 312rem;
     width: 1350px;
     border: 3px solid black;
     border-radius: 15px;
@@ -109,7 +109,7 @@ nav ul li a{
 }
 
 .designHead1{
-    margin-top: -3470px;
+    margin-top: -260rem;
     margin-left: 110px;
     font-size: 23px;
 }
@@ -239,7 +239,7 @@ nav ul li a{
 
 /*this is where you lift the first heading up*/
 .styleHead{
-    margin-top: -240rem;
+    margin-top: -311rem;
     margin-left: 110px;
     font-size: 23px;
 }
@@ -357,16 +357,42 @@ nav ul li a{
 }
 
 .styleHead8{
-    margin-top: 30px;
+    margin-top: -2rem;
     margin-left: 110px;
     font-size: 23px;
 }
 
 .stage3{
-    height: 500px;
+    height: 600px;
     width: 990px;
     margin-left: 220px;
     margin-top: 10px;
+}
+
+.styleHead9{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.stage4{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.styleHead10{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 23px;
+}
+
+.stage5{
+    margin-top: -15px;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-right: 90px;
 }
 
 #message{
@@ -374,7 +400,7 @@ nav ul li a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 120px;
     margin-left: 400px;
-    margin-top: 250rem;
+    margin-top: 18rem;
     transition: ease-in-out 0.5s;
 }
 
@@ -396,7 +422,7 @@ nav ul li a{
 .bottomNav1{
     float: left;
     margin-left: -3px;
-    margin-top: 11rem;
+    margin-top: 10rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -415,7 +441,7 @@ nav ul li a{
 .lastLink{
     float: right;
     margin-right: 1px;
-    margin-top: 11.5rem;
+    margin-top: 10.5rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
