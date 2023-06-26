@@ -51,6 +51,10 @@ nav ul li a{
     transition: ease-in-out 0.7s;
 }
 
+.devBlogHeadingWords:hover{
+    font-size: 78px;
+}
+
 .week1heading{
     height: 115px;
     width: 570px;
@@ -695,7 +699,7 @@ nav ul li a{
 .lastLink{
     float: right;
     margin-right: 1px;
-    margin-top: -2.5rem;
+    margin-top: 2.4rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
